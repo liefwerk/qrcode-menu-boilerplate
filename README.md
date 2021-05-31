@@ -1,10 +1,5 @@
-# QR Code Menu Boilerplate
+# Webpack Boilerplate
 
-Quick boilerplate for prototyping the QR Code menus.
+Quick boilerplate for webpack prototyping
 
-## Todo list
-
-- [ ] Add Webpack
-- [ ] Quickly design the main page with tailwind (head)
-- [ ] Choose yarn packages
-- [ ] Add yarn packages
+(Some guides are available on the )[]
